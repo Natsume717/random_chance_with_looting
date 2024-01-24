@@ -1,0 +1,2 @@
+# random_chance_with_looting
+predicateのrandom_chance_with_lootingに関するデータパックサンプルになります。
